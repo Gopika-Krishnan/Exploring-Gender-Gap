@@ -1,6 +1,6 @@
 # Exploring Gender Gap
 
-I explore the different facets of how the gender gap represents itself using data that has information on companies from different industries and regions (inflow, outflow, job category, year joined)
+I explore the different facets of how the gender gap represents itself using data that has information on companies from different industries and regions (inflow, outflow, job category, year joined).
 
 The facets I explore include:
 
